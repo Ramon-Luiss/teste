@@ -12,4 +12,6 @@ int main (){
 	scanf("%i %i", &x1, &y1);
 	printf("Coordenadas segundo ponto : ");
 	scanf("%i %i", &x2, &y2);
+	distancia = calculaDistancia(int x1, y1, x2, y2;);
+	printf("Distancia : ", distancia);
 }
